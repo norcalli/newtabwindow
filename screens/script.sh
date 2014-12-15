@@ -1,0 +1,1 @@
+convert screen-2.png -adaptive-resize 1280x800 -unsharp 0x1 -size 1280x800 xc:none +swap -gravity center -composite sc-2.png
